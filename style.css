@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+	text-align: center;
+	text-shadow: 0 0 16px white;
+}
+
+a {
+	color: red;
+}
+
+.kleur1 {
+	color: red;
+}
+
+body {
+	background: black;
+	color: white;
+}
+
+.picca {
+	width: 700px;
+}
